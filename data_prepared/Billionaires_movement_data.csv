@@ -1,0 +1,474 @@
+,rank,finalWorth,personName,country,industries,countryOfCitizenship,movement?
+28,29,39100000000,Klaus-Michael Kuehne,Switzerland,Logistics,Germany,True
+29,30,38900000000,Giovanni Ferrero,Belgium,Food & Beverage,Italy,True
+32,33,38000000000,Li Ka-shing,"Hong Kong, China (SAR)",Diversified,Hong Kong,True
+37,38,33400000000,Robin Zeng,China,Automotive,Hong Kong,True
+39,40,32100000000,Len Blavatnik,United Kingdom,Diversified,United States,True
+40,41,31600000000,Alain Wertheimer,United States,Fashion & Retail,France,True
+41,41,31600000000,Gerard Wertheimer,United States,Fashion & Retail,France,True
+46,47,29500000000,Lee Shau Kee,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+57,58,25200000000,Andrey Melnichenko & family,United Arab Emirates,Metals & Mining,Russia,True
+61,62,23700000000,Vladimir Potanin,Russian Federation,Metals & Mining,Russia,True
+69,70,22100000000,Vladimir Lisin,Russian Federation,Metals & Mining,Russia,True
+72,72,21600000000,Leonid Mikhelson & family,Russian Federation,Energy,Russia,True
+78,79,20900000000,Alexey Mordashov & family,Russian Federation,Metals & Mining,Russia,True
+79,80,20500000000,Vagit Alekperov,Russian Federation,Energy,Russia,True
+85,86,18900000000,Eyal Ofer,Monaco,Diversified,Israel,True
+90,89,18500000000,Gennady Timchenko,Russian Federation,Energy,Russia,True
+92,93,17700000000,Lakshmi Mittal,United Kingdom,Metals & Mining,India,True
+99,100,16700000000,Vicky Safra & family,Switzerland,Finance & Investments,Brazil,True
+101,101,16500000000,Renata Kellnerova & family,Czechia,Finance & Investments,Czech Republic,True
+102,103,16300000000,Li Xiting,China,Healthcare,Singapore,True
+105,106,16000000000,Michael Platt,Switzerland,Finance & Investments,United Kingdom,True
+108,108,15800000000,Jorge Paulo Lemann & family,Switzerland,Food & Beverage,Brazil,True
+109,108,15800000000,Peter Woo,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+117,119,14700000000,Charlene de Carvalho-Heineken & family,United Kingdom,Food & Beverage,Netherlands,True
+118,120,14600000000,Xu Hang,China,Healthcare,Hong Kong,True
+120,122,14400000000,Alisher Usmanov,Uzbekistan,Metals & Mining,Russia,True
+124,126,14100000000,Kwong Siu-hing,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+125,127,14000000000,Idan Ofer,United Kingdom,Diversified,Israel,True
+127,128,13900000000,Lui Che Woo,"Hong Kong, China (SAR)",Gambling & Casinos,Hong Kong,True
+128,130,13700000000,John Fredriksen,United Kingdom,Logistics,Cyprus,True
+133,133,13300000000,Joseph Lau,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+138,140,12600000000,Mikhail Fridman,United Kingdom,Energy,Russia,True
+144,146,11800000000,Robert Kuok,"Hong Kong, China (SAR)",Diversified,Malaysia,True
+152,153,11300000000,Viatcheslav Kantor,Israel,Manufacturing,Russia,True
+154,153,11300000000,Mikhail Prokhorov,Switzerland,Finance & Investments,Russia,True
+157,159,11000000000,Gong Hongjia & family,"Hong Kong, China (SAR)",Finance & Investments,Hong Kong,True
+165,167,10500000000,Suleiman Kerimov & family,Russian Federation,Finance & Investments,Russia,True
+167,167,10500000000,Changpeng Zhao,United Arab Emirates,Finance & Investments,Canada,True
+173,171,10200000000,Viktor Rashnikov,Russian Federation,Manufacturing,Russia,True
+174,171,10200000000,Eduardo Saverin,Singapore,Technology,Brazil,True
+182,184,9800000000,Vinod Adani,United Arab Emirates,Diversified,Cyprus,True
+183,184,9800000000,Nicolas Puech,Switzerland,Fashion & Retail,France,True
+188,190,9700000000,Andrei Guriev & family,Russian Federation,Manufacturing,Russia,True
+189,190,9700000000,Michael Kim,Korea (Republic of),Finance & Investments,United States,True
+206,208,9200000000,Roman Abramovich & family,Russian Federation,Diversified,Russia,True
+208,208,9200000000,Daniel Kretinsky,Czechia,Energy,Czech Republic,True
+213,215,9000000000,David Cheriton,United States,Technology,Canada,True
+218,220,8900000000,Finn Rausing,United Kingdom,Food & Beverage,Sweden,True
+219,220,8900000000,Jorn Rausing,United Kingdom,Food & Beverage,Sweden,True
+220,220,8900000000,Kirsten Rausing,United Kingdom,Food & Beverage,Sweden,True
+221,223,8800000000,Tatyana Bakalchuk,Russian Federation,Fashion & Retail,Russia,True
+227,223,8800000000,Carrie Perrodo & family,United Kingdom,Energy,France,True
+234,232,8600000000,Carlos Alberto Sicupira & family,Switzerland,Food & Beverage,Brazil,True
+236,232,8600000000,Andreas von Bechtolsheim & family,United States,Technology,Germany,True
+242,242,8400000000,Blair Parry-Okeden,Australia,Media & Entertainment,United States,True
+246,246,8300000000,Francine von Finck & family,Switzerland,Finance & Investments,Germany,True
+247,249,8200000000,Francis Choi,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+248,249,8200000000,German Khan,Russian Federation,Energy,Russia,True
+258,256,8100000000,Karel Komarek,Switzerland,Gambling & Casinos,Czech Republic,True
+260,261,8000000000,Leonid Fedun,Russian Federation,Energy,Russia,True
+264,261,8000000000,Pavel Tykac,Czechia,Metals & Mining,Czech Republic,True
+265,261,8000000000,Eric Wittouck,Monaco,Finance & Investments,Belgium,True
+269,268,7900000000,Jay Y. Lee,Korea (Republic of),Technology,South Korea,True
+272,268,7900000000,Andrei Skoch & family,Russian Federation,Metals & Mining,Russia,True
+295,290,7600000000,Joseph Tsai,"Hong Kong, China (SAR)",Technology,Canada,True
+304,305,7400000000,Sri Prakash Lohia,United Kingdom,Manufacturing,Indonesia,True
+311,312,7300000000,Iskander Makhmudov,Russian Federation,Metals & Mining,Russia,True
+314,312,7300000000,Wang Laichun,China,Technology,Hong Kong,True
+320,317,7200000000,Guillaume Pousaz,United Arab Emirates,Finance & Investments,Switzerland,True
+327,325,7100000000,Frederik Paulsen,Switzerland,Healthcare,Sweden,True
+331,332,7000000000,Dmitri Bukhman,United Kingdom,Media & Entertainment,Israel,True
+332,332,7000000000,Igor Bukhman,United Kingdom,Media & Entertainment,Israel,True
+336,332,7000000000,Law Kar Po,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+338,332,7000000000,Shapoor Mistry,India,Diversified,Ireland,True
+356,352,6800000000,Yuri Milner,United States,Finance & Investments,Israel,True
+360,352,6800000000,Viktor Vekselberg,Russian Federation,Diversified,Russia,True
+361,352,6800000000,Wang Laisheng,China,Technology,Hong Kong,True
+369,365,6700000000,Li Ping,China,Automotive,Hong Kong,True
+390,390,6500000000,Nathan Kirsh,Eswatini (Kingdom of),Fashion & Retail,Eswatini (Swaziland),True
+393,390,6500000000,Simon Reuben,Monaco,Diversified,United Kingdom,True
+394,390,6500000000,Radovan Vitek,Switzerland,Real Estate,Czech Republic,True
+399,397,6400000000,Alexei Kuzmichev,France,Energy,Russia,True
+400,397,6400000000,Dmitry Rybolovlev & family,Monaco,Manufacturing,Russia,True
+405,405,6300000000,John Grayken,United Kingdom,Finance & Investments,Ireland,True
+413,411,6200000000,Ruan Liping,China,Manufacturing,Hong Kong,True
+414,411,6200000000,Ruan Xueping,China,Manufacturing,Hong Kong,True
+420,418,6100000000,Michael Kadoorie,"Hong Kong, China (SAR)",Energy,Hong Kong,True
+421,418,6100000000,Zhou Qunfei,"Hong Kong, China (SAR)",Technology,Hong Kong,True
+422,425,6000000000,Alexander Abramov,Russian Federation,Metals & Mining,Russia,True
+429,425,6000000000,Joe Lewis,Bahamas,Finance & Investments,United Kingdom,True
+430,425,6000000000,Frank Lowy,Israel,Finance & Investments,Australia,True
+436,437,5900000000,Andreas Halvorsen,United States,Finance & Investments,Norway,True
+438,437,5900000000,Tsai Eng-meng,China,Food & Beverage,Taiwan,True
+444,445,5700000000,Clive Calder,Cayman Islands,Media & Entertainment,United Kingdom,True
+448,445,5700000000,Helmut Sohmen,"Hong Kong, China (SAR)",Logistics,Austria,True
+457,455,5600000000,Li Ge,China,Healthcare,United States,True
+461,455,5600000000,Seo Jung-jin,Korea (Republic of),Healthcare,South Korea,True
+462,455,5600000000,Wu Jianshu,China,Automotive,Hong Kong,True
+466,466,5500000000,John Collison,United States,Technology,Ireland,True
+467,466,5500000000,Patrick Collison,United States,Technology,Ireland,True
+477,466,5500000000,Jean Salata,"Hong Kong, China (SAR)",Finance & Investments,Chile,True
+486,486,5400000000,Leo Koguan,Singapore,Technology,United States,True
+492,486,5400000000,Stefan Reimann-Andersen,Austria,Fashion & Retail,Germany,True
+493,486,5400000000,Renate Reimann-Haas,Austria,Fashion & Retail,Germany,True
+496,497,5300000000,Ibrahim Erdemoglu,Türkiye,Manufacturing,Turkey,True
+507,497,5300000000,M.A. Yusuff Ali,United Arab Emirates,Fashion & Retail,India,True
+508,511,5200000000,Alexandre Behring,United States,Finance & Investments,Brazil,True
+512,511,5200000000,Micky Jagtiani,United Arab Emirates,Fashion & Retail,India,True
+516,511,5200000000,Mark Scheinberg,United Kingdom,Gambling & Casinos,Canada,True
+523,523,5100000000,Kwon Hyuk-bin,Korea (Republic of),Media & Entertainment,South Korea,True
+527,523,5100000000,Tse Ping & family,"Hong Kong, China (SAR)",Healthcare,China,True
+529,523,5100000000,Hansjoerg Wyss,United States,Healthcare,Switzerland,True
+537,534,5000000000,Viktor Kharitonin,Russian Federation,Healthcare,Russia,True
+538,534,5000000000,Kim Beom-su,Korea (Republic of),Technology,South Korea,True
+546,534,5000000000,Murat Ulker,Türkiye,Food & Beverage,Turkey,True
+575,567,4800000000,Horst Julius Pudwill,"Hong Kong, China (SAR)",Manufacturing,Germany,True
+579,580,4700000000,Jason Chang,Taiwan,Technology,Singapore,True
+580,580,4700000000,Ali Erdemoglu,Türkiye,Manufacturing,Turkey,True
+583,580,4700000000,Hong Ra-hee,Korea (Republic of),Technology,South Korea,True
+598,591,4600000000,Richard Li,"Hong Kong, China (SAR)",Telecom,Hong Kong,True
+612,611,4500000000,Theo Mueller,Switzerland,Food & Beverage,Germany,True
+617,611,4500000000,David Velez & family,Brazil,Finance & Investments,Colombia,True
+621,624,4400000000,Stéphane Bancel,United States,Healthcare,France,True
+632,624,4400000000,Mikhail Shelkov,Russian Federation,Metals & Mining,Russia,True
+633,636,4300000000,Patrick Drahi,Switzerland,Telecom,France,True
+635,636,4300000000,Juan Carlos Escotet,Spain,Finance & Investments,Venezuela,True
+641,636,4300000000,Andrei Kozitsyn,Russian Federation,Metals & Mining,Russia,True
+646,636,4300000000,Pham Nhat Vuong,Viet Nam,Diversified,Vietnam,True
+655,659,4200000000,Pyotr Aven,Latvia,Finance & Investments,Russia,True
+664,659,4200000000,Lin Bin,China,Technology,United States,True
+674,679,4100000000,Andrej Babis,Czechia,Food & Beverage,Czech Republic,True
+684,679,4100000000,Igor Kesaev,Russian Federation,Fashion & Retail,Russia,True
+703,699,4000000000,Paul Lee,China,Manufacturing,United States,True
+710,699,4000000000,Shaul Shani,Italy,Telecom,Israel,True
+713,699,4000000000,Torbjorn Tornqvist,Switzerland,Energy,Sweden,True
+721,721,3900000000,Mong-Koo Chung,Korea (Republic of),Automotive,South Korea,True
+722,721,3900000000,Kenneth Dart,Cayman Islands,Finance & Investments,Belize,True
+764,766,3700000000,Yakir Gabay,United Kingdom,Real Estate,Cyprus,True
+768,766,3700000000,Jason Jiang,China,Media & Entertainment,Singapore,True
+771,766,3700000000,Mikhail Lomtadze,Kazakhstan,Finance & Investments,Georgia,True
+784,787,3600000000,Leonid Boguslavsky,Italy,Finance & Investments,Canada,True
+786,787,3600000000,Nicolas D'Ieteren,Switzerland,Automotive,Belgium,True
+787,787,3600000000,Beatriz Davila de Santo Domingo,Bermuda,Food & Beverage,Colombia,True
+789,787,3600000000,Jaime Gilinski Bacal,United Kingdom,Finance & Investments,Colombia,True
+790,787,3600000000,Pansy Ho,"Hong Kong, China (SAR)",Gambling & Casinos,Hong Kong,True
+791,787,3600000000,Alan Howard,Switzerland,Finance & Investments,United Kingdom,True
+792,787,3600000000,Huang Yi,China,Automotive,Hong Kong,True
+796,787,3600000000,Samuel Tak Lee,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+797,787,3600000000,Edwin Leong,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+799,787,3600000000,Mohamed Mansour,United Kingdom,Diversified,Egypt,True
+807,787,3600000000,Lawrence Stroll,Switzerland,Fashion & Retail,Canada,True
+808,787,3600000000,Tung Chee Chen,"Hong Kong, China (SAR)",Logistics,Hong Kong,True
+813,818,3500000000,Rocco Basilico,United States,Fashion & Retail,Italy,True
+818,818,3500000000,Claudio Del Vecchio,United States,Fashion & Retail,Italy,True
+823,818,3500000000,Paola Del Vecchio,Luxembourg,Fashion & Retail,Italy,True
+827,818,3500000000,Mikhail Gutseriev,Russian Federation,Energy,Russia,True
+828,818,3500000000,Patrick Lee,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+835,818,3500000000,Arkady Rotenberg,Russian Federation,Construction & Engineering,Russia,True
+838,818,3500000000,Vivek Chaand Sehgal,India,Automotive,Australia,True
+845,818,3500000000,Nicoletta Zampillo,Monaco,Fashion & Retail,Italy,True
+849,852,3400000000,Igor Altushkin,Russian Federation,Metals & Mining,Russia,True
+853,852,3400000000,Richard Branson,British Virgin Islands,Diversified,United Kingdom,True
+854,852,3400000000,Cho Jung-ho,Korea (Republic of),Finance & Investments,South Korea,True
+856,852,3400000000,Laurence Graff & family,Switzerland,Fashion & Retail,United Kingdom,True
+891,878,3300000000,Neil Shen,China,Finance & Investments,Hong Kong,True
+899,878,3300000000,Takao Yasuda,Singapore,Fashion & Retail,Japan,True
+903,905,3200000000,Ron Burkle,United Kingdom,Finance & Investments,United States,True
+912,905,3200000000,Sergei Galitsky,Russian Federation,Fashion & Retail,Russia,True
+915,905,3200000000,Michael Hintze,United Kingdom,Finance & Investments,Australia,True
+918,905,3200000000,Lee Boo-jin,Korea (Republic of),Technology,South Korea,True
+923,905,3200000000,Aristotelis Mistakidis,Switzerland,Metals & Mining,Greece,True
+926,905,3200000000,Ravi Pillai,United Arab Emirates,Construction & Engineering,India,True
+928,905,3200000000,Hilton Schlosberg,United States,Food & Beverage,United Kingdom,True
+935,905,3200000000,Roman Trotsenko,Russian Federation,Logistics,Russia,True
+943,949,3100000000,Cho Tak Wong,China,Manufacturing,Hong Kong,True
+945,949,3100000000,Ryan Cohen,United States,Finance & Investments,Canada,True
+951,949,3100000000,Sergei Gordeev,Russian Federation,Real Estate,Russia,True
+954,949,3100000000,Bertil Hult,Switzerland,Service,Sweden,True
+959,949,3100000000,Yin Yee Lee,"Hong Kong, China (SAR)",Manufacturing,China,True
+960,949,3100000000,Vladimir Litvinenko & family,Russian Federation,Manufacturing,Russia,True
+961,949,3100000000,Daniel Mate,Switzerland,Metals & Mining,Spain,True
+963,949,3100000000,Farhad Moshiri,Monaco,Diversified,United Kingdom,True
+965,949,3100000000,Or Wai Sheun,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+966,949,3100000000,Katharina Otto-Bernstein,United States,Real Estate,Germany,True
+967,949,3100000000,Sergei Popov,Switzerland,Finance & Investments,Russia,True
+972,949,3100000000,Rita Tong Liu,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+975,949,3100000000,Yoo Jung-hyun,Korea (Republic of),Media & Entertainment,South Korea,True
+977,982,3000000000,Semahat Sevim Arsel,Türkiye,Diversified,Turkey,True
+984,982,3000000000,Chan Tan Ching-fen,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+999,982,3000000000,Egor Kulkov,Switzerland,Healthcare,Russia,True
+1012,982,3000000000,Martua Sitorus,Singapore,Manufacturing,Indonesia,True
+1014,982,3000000000,Sukanto Tanoto,Singapore,Diversified,Indonesia,True
+1015,982,3000000000,Sunny Varkey,United Arab Emirates,Service,India,True
+1018,982,3000000000,Lei Zhang,"Hong Kong, China (SAR)",Finance & Investments,China,True
+1032,1027,2900000000,Otto Happel,Switzerland,Construction & Engineering,Germany,True
+1035,1027,2900000000,Zarakh Iliev,Russian Federation,Real Estate,Russia,True
+1036,1027,2900000000,Ipek Kirac,Türkiye,Diversified,Turkey,True
+1037,1027,2900000000,Lee Seo-hyun,Korea (Republic of),Technology,South Korea,True
+1038,1027,2900000000,Li Jianquan & family,China,Healthcare,Hong Kong,True
+1043,1027,2900000000,Ronald McAulay,"Hong Kong, China (SAR)",Energy,Hong Kong,True
+1046,1027,2900000000,God Nisanov,Russian Federation,Real Estate,Russia,True
+1051,1027,2900000000,Alexey Repik,Russian Federation,Healthcare,Russia,True
+1054,1027,2900000000,Karthik Sarma,United States,Finance & Investments,India,True
+1062,1067,2800000000,Garrett Camp,United States,Technology,Canada,True
+1063,1067,2800000000,Chen Lip Keong,Cambodia,Gambling & Casinos,Malaysia,True
+1065,1067,2800000000,Euisun Chung,Korea (Republic of),Automotive,South Korea,True
+1075,1067,2800000000,Dmitry Mazepin,Russian Federation,Manufacturing,Russia,True
+1081,1067,2800000000,Philip Niarchos,France,Diversified,Greece,True
+1092,1067,2800000000,Tung Chee Hwa,"Hong Kong, China (SAR)",Logistics,Hong Kong,True
+1094,1067,2800000000,Wong Luen Hei,"Hong Kong, China (SAR)",Manufacturing,China,True
+1095,1067,2800000000,Chenghai Ye & family,"Hong Kong, China (SAR)",Healthcare,Hong Kong,True
+1103,1104,2700000000,Harindarpal Banga,"Hong Kong, China (SAR)",Finance & Investments,India,True
+1105,1104,2700000000,Anne Beaufour,United Kingdom,Healthcare,France,True
+1106,1104,2700000000,Henri Beaufour,United Kingdom,Healthcare,France,True
+1107,1104,2700000000,Andrei Bokarev,Russian Federation,Manufacturing,Russia,True
+1110,1104,2700000000,N. Murray Edwards,United Kingdom,Energy,Canada,True
+1113,1104,2700000000,Bruce Flatt,United Kingdom,Finance & Investments,Canada,True
+1115,1104,2700000000,Robert Friedland,Singapore,Metals & Mining,United States,True
+1116,1104,2700000000,Alexander Frolov,Russian Federation,Metals & Mining,Russia,True
+1120,1104,2700000000,Samvel Karapetyan,Russian Federation,Construction & Engineering,Russia,True
+1121,1104,2700000000,Kei Hoi Pang,"Hong Kong, China (SAR)",Real Estate,China,True
+1122,1104,2700000000,Mustafa Rahmi Koc,Türkiye,Diversified,Turkey,True
+1123,1104,2700000000,Yuri Kovalchuk & family,Russian Federation,Finance & Investments,Russia,True
+1124,1104,2700000000,Geoffrey Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1125,1104,2700000000,Jonathan Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1129,1104,2700000000,Angela Leong,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1137,1104,2700000000,Pan Dong,"Hong Kong, China (SAR)",Fashion & Retail,Canada,True
+1144,1104,2700000000,Alexander Skorobogatko,Russian Federation,Logistics,Russia,True
+1150,1104,2700000000,Wong Man Li,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+1162,1164,2600000000,Richard Chandler,Singapore,Finance & Investments,New Zealand,True
+1175,1164,2600000000,Dmitry Kamenshchik,Russian Federation,Service,Russia,True
+1177,1164,2600000000,Adam Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1190,1164,2600000000,James Packer,United States,Finance & Investments,Australia,True
+1191,1164,2600000000,Alexander Ponomarenko,Russian Federation,Logistics,Russia,True
+1209,1217,2500000000,Thor Bjorgolfsson,United Kingdom,Diversified,Iceland,True
+1210,1217,2500000000,Charles Bronfman,United States,Food & Beverage,Canada,True
+1219,1217,2500000000,Oleg Deripaska,Russian Federation,Metals & Mining,Russia,True
+1230,1217,2500000000,Saban Cemil Kazanci,Türkiye,Energy,Turkey,True
+1244,1217,2500000000,Ferit Faik Sahenk,Türkiye,Diversified,Turkey,True
+1250,1217,2500000000,Arvind Tiku,Singapore,Energy,India,True
+1254,1217,2500000000,Roger Wang,China,Fashion & Retail,United States,True
+1257,1217,2500000000,Xie Weitong,Singapore,Metals & Mining,Taiwan,True
+1264,1272,2400000000,Chen Tei-fu,United States,Fashion & Retail,Taiwan,True
+1281,1272,2400000000,Tor Peterson,Switzerland,Metals & Mining,United States,True
+1299,1312,2300000000,John Armitage,United Kingdom,Finance & Investments,Ireland,True
+1306,1312,2300000000,Chu Lam Yiu,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+1313,1312,2300000000,Erman Ilicak,Türkiye,Construction & Engineering,Turkey,True
+1317,1312,2300000000,Bom Kim,Korea (Republic of),Technology,United States,True
+1319,1312,2300000000,Lam Kong,"Hong Kong, China (SAR)",Healthcare,China,True
+1327,1312,2300000000,Vadim Moshkovich,Russian Federation,Food & Beverage,Russia,True
+1329,1312,2300000000,David Nahmad,United States,Fashion & Retail,Monaco,True
+1331,1312,2300000000,Augusto Perfetti,Switzerland,Food & Beverage,Italy,True
+1332,1312,2300000000,Giorgio Perfetti,Switzerland,Food & Beverage,Italy,True
+1335,1312,2300000000,Filiz Sahenk,Türkiye,Diversified,Turkey,True
+1340,1312,2300000000,Tang Yiu,"Hong Kong, China (SAR)",Fashion & Retail,Hong Kong,True
+1344,1312,2300000000,Georg von Opel,United Kingdom,Finance & Investments,Switzerland,True
+1355,1368,2200000000,Albert Avdolyan,Russian Federation,Energy,Russia,True
+1356,1368,2200000000,Sezai Bacaksiz,Türkiye,Diversified,Turkey,True
+1358,1368,2200000000,Brett Blundy,Bahamas,Fashion & Retail,Australia,True
+1368,1368,2200000000,Hao Hong,China,Healthcare,United States,True
+1372,1368,2200000000,Chulong Huang,China,Real Estate,Canada,True
+1381,1368,2200000000,Max Lytvyn,United States,Technology,Canada,True
+1382,1368,2200000000,Igor Makarov,United States,Energy,Cyprus,True
+1385,1368,2200000000,Adam Neumann,United States,Real Estate,Israel,True
+1386,1368,2200000000,Thi Phuong Thao Nguyen,Viet Nam,Diversified,Vietnam,True
+1405,1368,2200000000,Tang Xiao'ou,China,Technology,Hong Kong,True
+1407,1368,2200000000,Shamsheer Vayalil,United Arab Emirates,Healthcare,India,True
+1414,1368,2200000000,Yeung Kin-man,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+1416,1368,2200000000,Oren Zeev,United States,Finance & Investments,Israel,True
+1427,1434,2100000000,Daniel Chiu,"Hong Kong, China (SAR)",Energy,Hong Kong,True
+1431,1434,2100000000,Georgi Domuschiev,United Kingdom,Diversified,Bulgaria,True
+1432,1434,2100000000,Kiril Domuschiev,United Kingdom,Diversified,Bulgaria,True
+1439,1434,2100000000,Dennis Gillings,United States,Healthcare,United Kingdom,True
+1444,1434,2100000000,Bahaa Hariri,Switzerland,Real Estate,Lebanon,True
+1449,1434,2100000000,Eugene Kaspersky,Russian Federation,Technology,Russia,True
+1450,1434,2100000000,Artem Khachatryan,Cyprus,Fashion & Retail,Russia,True
+1451,1434,2100000000,Andrei Krivenko,Russian Federation,Food & Beverage,Russia,True
+1452,1434,2100000000,Thomas Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1453,1434,2100000000,Lam Wai-ying,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+1459,1434,2100000000,Sergey Lomakin,Cyprus,Fashion & Retail,Russia,True
+1469,1434,2100000000,Alexander Nesis,Russian Federation,Finance & Investments,Russia,True
+1478,1434,2100000000,Thaksin Shinawatra,United Arab Emirates,Finance & Investments,Thailand,True
+1484,1434,2100000000,Alexander Svetakov,Russian Federation,Finance & Investments,Russia,True
+1487,1434,2100000000,Hamdi Ulukaya,United States,Food & Beverage,Turkey,True
+1489,1434,2100000000,Wei Ing-Chou,China,Food & Beverage,Taiwan,True
+1491,1434,2100000000,Wei Yin-Heng,China,Food & Beverage,Taiwan,True
+1495,1434,2100000000,Michael Ying,"Hong Kong, China (SAR)",Fashion & Retail,Hong Kong,True
+1498,1434,2100000000,Zhang Ning & family,China,Manufacturing,Canada,True
+1499,1434,2100000000,Zhao Tao,China,Healthcare,Singapore,True
+1501,1516,2000000000,Mohamed Al Fayed,United Kingdom,Fashion & Retail,Egypt,True
+1503,1516,2000000000,Michael Ashcroft,Turks and Caicos Islands,Finance & Investments,United Kingdom,True
+1504,1516,2000000000,Pavel Baudis,Czechia,Technology,Czech Republic,True
+1510,1516,2000000000,Maria Franca Fissolo,Monaco,Food & Beverage,Italy,True
+1512,1516,2000000000,Mario Germano Giuliani,Monaco,Healthcare,Switzerland,True
+1514,1516,2000000000,John Hancock,United Kingdom,Metals & Mining,Australia,True
+1516,1516,2000000000,Huang Dawen,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+1523,1516,2000000000,Martin Lau,"Hong Kong, China (SAR)",Technology,Hong Kong,True
+1528,1516,2000000000,Aloke Lohia,Thailand,Manufacturing,India,True
+1530,1516,2000000000,Alexander Mamut,Israel,Finance & Investments,Russia,True
+1549,1516,2000000000,Hope Welker,United States,Metals & Mining,Australia,True
+1561,1575,1900000000,Nikolai Buinov,Russian Federation,Energy,Russia,True
+1576,1575,1900000000,Bulent Eczacibasi,Türkiye,Diversified,Turkey,True
+1577,1575,1900000000,Faruk Eczacibasi,Türkiye,Diversified,Turkey,True
+1579,1575,1900000000,David Fong,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1580,1575,1900000000,Guo Zhenyu & family,China,Fashion & Retail,Canada,True
+1582,1575,1900000000,Caroline Hagen Kjos,Switzerland,Diversified,Norway,True
+1587,1575,1900000000,Hui Wing Mau,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1590,1575,1900000000,Dominika Kulczyk,United Kingdom,Finance & Investments,Poland,True
+1595,1575,1900000000,Lin Dingqiang & family,China,Real Estate,Hong Kong,True
+1597,1575,1900000000,Strive Masiyiwa,United Kingdom,Telecom,Zimbabwe,True
+1598,1575,1900000000,Robert Miller,"Hong Kong, China (SAR)",Fashion & Retail,United Kingdom,True
+1610,1575,1900000000,Hua Shen,China,Technology,United States,True
+1616,1575,1900000000,Mehmet Sinan Tara,Türkiye,Construction & Engineering,Turkey,True
+1621,1575,1900000000,Wang Ren-sheng,China,Fashion & Retail,Taiwan,True
+1625,1575,1900000000,Gavril Yushvaev & family,Israel,Finance & Investments,Russia,True
+1636,1647,1800000000,Alejandro Bulgheroni,Uruguay,Energy,Argentina,True
+1657,1647,1800000000,Koo Kwang-mo,Korea (Republic of),Diversified,South Korea,True
+1673,1647,1800000000,Nihat Ozdemir,Türkiye,Diversified,Turkey,True
+1677,1647,1800000000,Olivier Pomel,United States,Technology,France,True
+1681,1647,1800000000,Anatoly Sedykh,Russian Federation,Metals & Mining,Russia,True
+1685,1647,1800000000,Suh Kyung-bae,Korea (Republic of),Fashion & Retail,South Korea,True
+1688,1647,1800000000,Jim Thompson,"Hong Kong, China (SAR)",Logistics,United States,True
+1689,1647,1800000000,Tran Dinh Long,Viet Nam,Manufacturing,Vietnam,True
+1697,1647,1800000000,Kie Chie Wong,Australia,Metals & Mining,Malaysia,True
+1703,1647,1800000000,Alan Zekelman,United States,Manufacturing,Canada,True
+1709,1725,1700000000,Bang Si-hyuk,Korea (Republic of),Media & Entertainment,South Korea,True
+1715,1725,1700000000,Marek Dospiva,Czechia,Finance & Investments,Czech Republic,True
+1721,1725,1700000000,Rolf Gerling,Switzerland,Finance & Investments,Germany,True
+1734,1725,1700000000,Kim Chang-soo,Korea (Republic of),Fashion & Retail,South Korea,True
+1735,1725,1700000000,Mustafa Kucuk,Türkiye,Fashion & Retail,Turkey,True
+1736,1725,1700000000,Christopher Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1737,1725,1700000000,Edward Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1756,1725,1700000000,Dmitry Pumpyansky,Russian Federation,Metals & Mining,Russia,True
+1762,1725,1700000000,Ivan Savvidis & family,Russian Federation,Diversified,Russia,True
+1777,1725,1700000000,Vladimir Yevtushenkov,Russian Federation,Telecom,Russia,True
+1785,1804,1600000000,Vasily Anisimov,Switzerland,Metals & Mining,Russia,True
+1789,1804,1600000000,Christian Birkenstock,Austria,Fashion & Retail,Germany,True
+1794,1804,1600000000,Chey Tae-won,Korea (Republic of),Technology,South Korea,True
+1802,1804,1600000000,Daniel Dines,United States,Technology,Romania,True
+1819,1804,1600000000,Sergei Katsiev,Russian Federation,Fashion & Retail,Russia,True
+1822,1804,1600000000,Pyotr Kondrashev,Austria,Manufacturing,Russia,True
+1828,1804,1600000000,Li Sze Lim,China,Real Estate,Hong Kong,True
+1829,1804,1600000000,Li Wa,China,Real Estate,Hong Kong,True
+1832,1804,1600000000,Vincent Lo,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1835,1804,1600000000,P.N.C. Menon,United Arab Emirates,Real Estate,Oman,True
+1847,1804,1600000000,Yuri Shefler,Switzerland,Food & Beverage,Russia,True
+1848,1804,1600000000,Evgeny (Eugene) Shvidler,United Kingdom,Metals & Mining,United States,True
+1850,1804,1600000000,Zakhar Smushkin,Russian Federation,Diversified,Russia,True
+1883,1905,1500000000,Hamdi Akin & family,Türkiye,Diversified,Turkey,True
+1893,1905,1500000000,Saket Burman,United Arab Emirates,Food & Beverage,United Kingdom,True
+1894,1905,1500000000,Ahmet Calik,Türkiye,Diversified,Turkey,True
+1902,1905,1500000000,Mohammed Dewji,Tanzania (United Republic of),Diversified,Tanzania,True
+1915,1905,1500000000,Ho Hung Anh,Viet Nam,Finance & Investments,Vietnam,True
+1922,1905,1500000000,Kim Jun-ki,Korea (Republic of),Diversified,South Korea,True
+1926,1905,1500000000,Spiro Latsis & family,Switzerland,Diversified,Greece,True
+1933,1905,1500000000,Li Shui-po,China,Manufacturing,Taiwan,True
+1935,1905,1500000000,Liu Xiucai & family,China,Manufacturing,United States,True
+1943,1905,1500000000,Robert Mouawad,Bahrain,Service,Lebanon,True
+1946,1905,1500000000,Stefan Olsson,United Kingdom,Diversified,Sweden,True
+1961,1905,1500000000,Leonid Simanovsky,Russian Federation,Finance & Investments,Russia,True
+1967,1905,1500000000,Sergei Studennikov & family,Russian Federation,Fashion & Retail,Russia,True
+1977,1905,1500000000,Carmen Thyssen,Andorra,Manufacturing,Spain,True
+1978,1905,1500000000,Tran Ba Duong & family,Viet Nam,Automotive,Vietnam,True
+1984,1905,1500000000,Gordon Wu,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+1997,2020,1400000000,Binny Bansal,Singapore,Technology,India,True
+2000,2020,1400000000,Vladimir Bogdanov,Russian Federation,Energy,Russia,True
+2010,2020,1400000000,Reinold Geiger,Switzerland,Fashion & Retail,Austria,True
+2011,2020,1400000000,Ali Ghodsi,United States,Technology,Sweden,True
+2015,2020,1400000000,Torstein Hagen,Switzerland,Service,Norway,True
+2016,2020,1400000000,Ayman Hariri,France,Construction & Engineering,Lebanon,True
+2019,2020,1400000000,Christoph Henkel,United Kingdom,Fashion & Retail,Germany,True
+2025,2020,1400000000,Kim Taek-jin,Korea (Republic of),Media & Entertainment,South Korea,True
+2027,2020,1400000000,Sergei Kolesnikov,Russian Federation,Manufacturing,Russia,True
+2029,2020,1400000000,Sebastian Kulczyk,Switzerland,Finance & Investments,Poland,True
+2036,2020,1400000000,Raymond Kwok,"Hong Kong, China (SAR)",Real Estate,Hong Kong,True
+2037,2020,1400000000,Lee Ho-jin,Korea (Republic of),Diversified,South Korea,True
+2039,2020,1400000000,Manfredi Lefebvre d'Ovidio & family,Monaco,Service,Italy,True
+2046,2020,1400000000,Liu Ming Chung,"Hong Kong, China (SAR)",Manufacturing,Brazil,True
+2047,2020,1400000000,Anatoly Lomakin,Russian Federation,Metals & Mining,Russia,True
+2070,2020,1400000000,Rihanna,United States,Fashion & Retail,Barbados,True
+2071,2020,1400000000,Boris Rotenberg,Russian Federation,Construction & Engineering,Russia,True
+2073,2020,1400000000,Igor Rybakov,Russian Federation,Manufacturing,Russia,True
+2076,2020,1400000000,Airat Shaimiev,Russian Federation,Energy,Russia,True
+2077,2020,1400000000,Radik Shaimiev,Russian Federation,Energy,Russia,True
+2097,2020,1400000000,Yu Peidi,China,Real Estate,Hong Kong,True
+2098,2020,1400000000,Yuan Liping,China,Healthcare,Canada,True
+2106,2020,1400000000,Boris Zingarevich,Russian Federation,Diversified,Russia,True
+2112,2133,1300000000,Roman Avdeev,Russian Federation,Finance & Investments,Russia,True
+2116,2133,1300000000,Elena Baturina,United Kingdom,Construction & Engineering,Russia,True
+2121,2133,1300000000,Stewart Butterfield,United States,Technology,Canada,True
+2134,2133,1300000000,Aydin Dogan,Türkiye,Media & Entertainment,Turkey,True
+2147,2133,1300000000,Hoi Kin Hong,China,Real Estate,Macau,True
+2155,2133,1300000000,Laurent Junique,Singapore,Technology,France,True
+2162,2133,1300000000,Eduard Kucera,Czechia,Technology,Czech Republic,True
+2163,2133,1300000000,Kristo Käärmann,United Kingdom,Finance & Investments,Estonia,True
+2165,2133,1300000000,Lee Hae-jin,Korea (Republic of),Technology,South Korea,True
+2174,2133,1300000000,Lv Jianming,China,Healthcare,Hong Kong,True
+2181,2133,1300000000,Martin Moller Nielsen,Switzerland,Logistics,Denmark,True
+2184,2133,1300000000,Nguyen Dang Quang,Viet Nam,Food & Beverage,Vietnam,True
+2194,2133,1300000000,Igor Rotenberg,Russian Federation,Diversified,Russia,True
+2195,2133,1300000000,Seifeddin Rustamov,United States,Manufacturing,Russia,True
+2196,2133,1300000000,Deniz Sahenk,Türkiye,Diversified,Turkey,True
+2201,2133,1300000000,Albert Shigaboutdinov,Russian Federation,Diversified,Russia,True
+2202,2133,1300000000,Denis Shtengelov,Australia,Food & Beverage,Russia,True
+2207,2133,1300000000,Konstantin Strukov & family,Russian Federation,Metals & Mining,Russia,True
+2208,2133,1300000000,Rustem Sulteev,Russian Federation,Energy,Russia,True
+2217,2133,1300000000,Myron Wentz,Cayman Islands,Fashion & Retail,St. Kitts and Nevis,True
+2225,2133,1300000000,Zhao Tongtong,"Hong Kong, China (SAR)",Service,Canada,True
+2231,2259,1200000000,Jose Maria Aristrain,Switzerland,Metals & Mining,Spain,True
+2234,2259,1200000000,Mehmet Aydinlar,Türkiye,Healthcare,Turkey,True
+2246,2259,1200000000,Chung Yong-jin,Korea (Republic of),Fashion & Retail,South Korea,True
+2252,2259,1200000000,Sefik Yilmaz Dizdar,Türkiye,Fashion & Retail,Turkey,True
+2267,2259,1200000000,Fahed Hariri,United Kingdom,Construction & Engineering,Lebanon,True
+2271,2259,1200000000,Lawrence Ho,"Hong Kong, China (SAR)",Gambling & Casinos,Hong Kong,True
+2280,2259,1200000000,Alexander Klyachin,Russian Federation,Real Estate,Russia,True
+2285,2259,1200000000,Lee Su-jin,Korea (Republic of),Technology,South Korea,True
+2291,2259,1200000000,Liu Ming Hui,"Hong Kong, China (SAR)",Energy,China,True
+2307,2259,1200000000,Vitaly Orlov,Russian Federation,Food & Beverage,Russia,True
+2315,2259,1200000000,Andrei Rappoport,Switzerland,Finance & Investments,Russia,True
+2319,2259,1200000000,Thomas Sandell,United Kingdom,Finance & Investments,Sweden,True
+2321,2259,1200000000,Dhruv Sawhney,United Arab Emirates,Construction & Engineering,India,True
+2323,2259,1200000000,Antonio Luiz Seabra,United Kingdom,Fashion & Retail,Brazil,True
+2325,2259,1200000000,Sytse 'Sid' Sijbrandij,United States,Technology,Netherlands,True
+2330,2259,1200000000,Mike Speiser,United Kingdom,Technology,United States,True
+2334,2259,1200000000,Ion Stoica,United States,Technology,Romania,True
+2346,2259,1200000000,Thomas von Koch,"Hong Kong, China (SAR)",Finance & Investments,Sweden,True
+2363,2259,1200000000,Vadim Yakunin,Russian Federation,Healthcare,Russia,True
+2365,2259,1200000000,Matei Zaharia,United States,Technology,Romania,True
+2369,2259,1200000000,Ning Zhao,China,Healthcare,United States,True
+2373,2405,1100000000,Farkhad Akhmedov,Russian Federation,Energy,Russia,True
+2380,2405,1100000000,Oleg Boyko,Switzerland,Diversified,Russia,True
+2400,2405,1100000000,Henry Engelhardt,United Kingdom,Finance & Investments,United States,True
+2404,2405,1100000000,Gleb Fetisov,Cyprus,Telecom,Russia,True
+2412,2405,1100000000,Pavel Golubkov,Russian Federation,Real Estate,Russia,True
+2415,2405,1100000000,Said Gutseriev,United Kingdom,Energy,Russia,True
+2416,2405,1100000000,Polys Haji-Ioannou,Monaco,Service,Cyprus,True
+2427,2405,1100000000,Jonas Kamprad,United Kingdom,Finance & Investments,Sweden,True
+2428,2405,1100000000,Mathias Kamprad,United Kingdom,Finance & Investments,Sweden,True
+2429,2405,1100000000,Peter Kamprad,Belgium,Finance & Investments,Sweden,True
+2431,2405,1100000000,Sunjay Kapur,India,Automotive,United States,True
+2432,2405,1100000000,Ali Metin Kazanci,Türkiye,Energy,Turkey,True
+2434,2405,1100000000,Carsten Koerl,Switzerland,Sports,Germany,True
+2435,2405,1100000000,Koo Bon-sik,Korea (Republic of),Technology,South Korea,True
+2436,2405,1100000000,Andrei Kosogov,Russian Federation,Energy,Russia,True
+2440,2405,1100000000,Lee Joong-keun,Korea (Republic of),Construction & Engineering,South Korea,True
+2453,2405,1100000000,Dmitry Nikolaev,Russian Federation,Energy,Russia,True
+2454,2405,1100000000,Sjamsul Nursalim,Singapore,Automotive,Indonesia,True
+2479,2405,1100000000,Arkady Volozh,Israel,Technology,Russia,True
+2484,2405,1100000000,Allan Wong,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+2487,2405,1100000000,Wu Kaiting,China,Telecom,Hong Kong,True
+2503,2405,1100000000,Zhuo Jun,"Hong Kong, China (SAR)",Manufacturing,Hong Kong,True
+2505,2540,1000000000,Christian Angermayer,United Kingdom,Finance & Investments,Germany,True
+2519,2540,1000000000,Tianqiao Chen,United States,Technology,China,True
+2521,2540,1000000000,Cheng Antares,"Hong Kong, China (SAR)",Food & Beverage,Hong Kong,True
+2523,2540,1000000000,John Christodoulou,Monaco,Real Estate,United Kingdom,True
+2524,2540,1000000000,Pollyanna Chu,"Hong Kong, China (SAR)",Finance & Investments,Hong Kong,True
+2525,2540,1000000000,Turgay Ciner,Türkiye,Diversified,Turkey,True
+2527,2540,1000000000,Mark Dixon,Monaco,Real Estate,United Kingdom,True
+2535,2540,1000000000,Clelia Haji-Ioannou,Monaco,Service,Cyprus,True
+2536,2540,1000000000,Stelios Haji-Ioannou,Monaco,Service,Cyprus,True
+2541,2540,1000000000,Hong Seok-joh,Korea (Republic of),Fashion & Retail,South Korea,True
+2553,2540,1000000000,Muhammed Aziz Khan,Singapore,Energy,Bangladesh,True
+2554,2540,1000000000,Kim Jung-woong,Korea (Republic of),Fashion & Retail,South Korea,True
+2555,2540,1000000000,Ihor Kolomoyskyy,Ukraine,Diversified,Israel,True
+2557,2540,1000000000,Koo Bon-neung,Korea (Republic of),Manufacturing,South Korea,True
+2560,2540,1000000000,Lev Kvetnoi,Russian Federation,Finance & Investments,Russia,True
+2567,2540,1000000000,Apoorva Mehta,United States,Technology,Canada,True
+2570,2540,1000000000,Andrei Molchanov,Russian Federation,Construction & Engineering,Russia,True
+2574,2540,1000000000,Vera Rechulski Santo Domingo,Bermuda,Food & Beverage,Brazil,True
+2580,2540,1000000000,Ivan Streshinsky,Russian Federation,Diversified,Russia,True
+2581,2540,1000000000,Sergei Sudarikov,Russian Federation,Finance & Investments,Russia,True
+2586,2540,1000000000,Murat Vargi,Türkiye,Telecom,Turkey,True
+2592,2540,1000000000,Toto Wolff,Monaco,Sports,Austria,True
