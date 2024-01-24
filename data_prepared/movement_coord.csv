@@ -1,0 +1,279 @@
+,rank,finalWorth,personName,country,industries,countryOfCitizenship,movement?,Latitude,Longitude,Latitude_origin,Longitude_origin
+0,29,39100000000,Klaus-Michael Kuehne,Switzerland,Logistics,Germany,True,46.779,8.033,51.382,9.988
+1,246,8300000000,Francine von Finck & family,Switzerland,Finance & Investments,Germany,True,46.779,8.033,51.382,9.988
+2,611,4500000000,Theo Mueller,Switzerland,Food & Beverage,Germany,True,46.779,8.033,51.382,9.988
+3,1027,2900000000,Otto Happel,Switzerland,Construction & Engineering,Germany,True,46.779,8.033,51.382,9.988
+4,1725,1700000000,Rolf Gerling,Switzerland,Finance & Investments,Germany,True,46.779,8.033,51.382,9.988
+5,2405,1100000000,Carsten Koerl,Switzerland,Sports,Germany,True,46.779,8.033,51.382,9.988
+6,2020,1400000000,Christoph Henkel,United Kingdom,Fashion & Retail,Germany,True,52.289,-1.259,51.382,9.988
+7,2540,1000000000,Christian Angermayer,United Kingdom,Finance & Investments,Germany,True,52.289,-1.259,51.382,9.988
+8,232,8600000000,Andreas von Bechtolsheim & family,United States,Technology,Germany,True,40.079,-98.816,51.382,9.988
+9,949,3100000000,Katharina Otto-Bernstein,United States,Real Estate,Germany,True,40.079,-98.816,51.382,9.988
+10,567,4800000000,Horst Julius Pudwill,"Hong Kong, China (SAR)",Manufacturing,Germany,True,22.411,114.06,51.382,9.988
+11,486,5400000000,Stefan Reimann-Andersen,Austria,Fashion & Retail,Germany,True,47.65,14.705,51.382,9.988
+12,486,5400000000,Renate Reimann-Haas,Austria,Fashion & Retail,Germany,True,47.65,14.705,51.382,9.988
+13,1804,1600000000,Christian Birkenstock,Austria,Fashion & Retail,Germany,True,47.65,14.705,51.382,9.988
+14,100,16700000000,Vicky Safra & family,Switzerland,Finance & Investments,Brazil,True,46.779,8.033,-11.694,-48.978
+15,108,15800000000,Jorge Paulo Lemann & family,Switzerland,Food & Beverage,Brazil,True,46.779,8.033,-11.694,-48.978
+16,232,8600000000,Carlos Alberto Sicupira & family,Switzerland,Food & Beverage,Brazil,True,46.779,8.033,-11.694,-48.978
+17,2259,1200000000,Antonio Luiz Seabra,United Kingdom,Fashion & Retail,Brazil,True,52.289,-1.259,-11.694,-48.978
+18,511,5200000000,Alexandre Behring,United States,Finance & Investments,Brazil,True,40.079,-98.816,-11.694,-48.978
+19,2020,1400000000,Liu Ming Chung,"Hong Kong, China (SAR)",Manufacturing,Brazil,True,22.411,114.06,-11.694,-48.978
+20,171,10200000000,Eduardo Saverin,Singapore,Technology,Brazil,True,1.339,103.83,-11.694,-48.978
+21,2540,1000000000,Vera Rechulski Santo Domingo,Bermuda,Food & Beverage,Brazil,True,32.302,-64.774,-11.694,-48.978
+22,106,16000000000,Michael Platt,Switzerland,Finance & Investments,United Kingdom,True,46.779,8.033,52.289,-1.259
+23,787,3600000000,Alan Howard,Switzerland,Finance & Investments,United Kingdom,True,46.779,8.033,52.289,-1.259
+24,852,3400000000,Laurence Graff & family,Switzerland,Fashion & Retail,United Kingdom,True,46.779,8.033,52.289,-1.259
+25,905,3200000000,Hilton Schlosberg,United States,Food & Beverage,United Kingdom,True,40.079,-98.816,52.289,-1.259
+26,1434,2100000000,Dennis Gillings,United States,Healthcare,United Kingdom,True,40.079,-98.816,52.289,-1.259
+27,1905,1500000000,Saket Burman,United Arab Emirates,Food & Beverage,United Kingdom,True,23.93,53.903,52.289,-1.259
+28,390,6500000000,Simon Reuben,Monaco,Diversified,United Kingdom,True,43.738,7.424,52.289,-1.259
+29,949,3100000000,Farhad Moshiri,Monaco,Diversified,United Kingdom,True,43.738,7.424,52.289,-1.259
+30,2540,1000000000,John Christodoulou,Monaco,Real Estate,United Kingdom,True,43.738,7.424,52.289,-1.259
+31,2540,1000000000,Mark Dixon,Monaco,Real Estate,United Kingdom,True,43.738,7.424,52.289,-1.259
+32,1575,1900000000,Robert Miller,"Hong Kong, China (SAR)",Fashion & Retail,United Kingdom,True,22.411,114.06,52.289,-1.259
+33,425,6000000000,Joe Lewis,Bahamas,Finance & Investments,United Kingdom,True,24.703,-78.046,52.289,-1.259
+34,445,5700000000,Clive Calder,Cayman Islands,Media & Entertainment,United Kingdom,True,19.33,-81.172,52.289,-1.259
+35,852,3400000000,Richard Branson,British Virgin Islands,Diversified,United Kingdom,True,18.42,-64.64,52.289,-1.259
+36,1516,2000000000,Michael Ashcroft,Turks and Caicos Islands,Finance & Investments,United Kingdom,True,21.778,-71.759,52.289,-1.259
+37,153,11300000000,Mikhail Prokhorov,Switzerland,Finance & Investments,Russian Federation,True,46.779,8.033,64.736,104.062
+38,949,3100000000,Sergei Popov,Switzerland,Finance & Investments,Russian Federation,True,46.779,8.033,64.736,104.062
+39,982,3000000000,Egor Kulkov,Switzerland,Healthcare,Russian Federation,True,46.779,8.033,64.736,104.062
+40,1804,1600000000,Vasily Anisimov,Switzerland,Metals & Mining,Russian Federation,True,46.779,8.033,64.736,104.062
+41,1804,1600000000,Yuri Shefler,Switzerland,Food & Beverage,Russian Federation,True,46.779,8.033,64.736,104.062
+42,2259,1200000000,Andrei Rappoport,Switzerland,Finance & Investments,Russian Federation,True,46.779,8.033,64.736,104.062
+43,2405,1100000000,Oleg Boyko,Switzerland,Diversified,Russian Federation,True,46.779,8.033,64.736,104.062
+44,140,12600000000,Mikhail Fridman,United Kingdom,Energy,Russian Federation,True,52.289,-1.259,64.736,104.062
+45,2133,1300000000,Elena Baturina,United Kingdom,Construction & Engineering,Russian Federation,True,52.289,-1.259,64.736,104.062
+46,2405,1100000000,Said Gutseriev,United Kingdom,Energy,Russian Federation,True,52.289,-1.259,64.736,104.062
+47,2133,1300000000,Seifeddin Rustamov,United States,Manufacturing,Russian Federation,True,40.079,-98.816,64.736,104.062
+48,58,25200000000,Andrey Melnichenko & family,United Arab Emirates,Metals & Mining,Russian Federation,True,23.93,53.903,64.736,104.062
+49,397,6400000000,Dmitry Rybolovlev & family,Monaco,Manufacturing,Russian Federation,True,43.738,7.424,64.736,104.062
+50,122,14400000000,Alisher Usmanov,Uzbekistan,Metals & Mining,Russian Federation,True,41.757,63.958,64.736,104.062
+51,153,11300000000,Viatcheslav Kantor,Israel,Manufacturing,Russian Federation,True,30.992,34.834,64.736,104.062
+52,1516,2000000000,Alexander Mamut,Israel,Finance & Investments,Russian Federation,True,30.992,34.834,64.736,104.062
+53,1575,1900000000,Gavril Yushvaev & family,Israel,Finance & Investments,Russian Federation,True,30.992,34.834,64.736,104.062
+54,2405,1100000000,Arkady Volozh,Israel,Technology,Russian Federation,True,30.992,34.834,64.736,104.062
+55,2133,1300000000,Denis Shtengelov,Australia,Food & Beverage,Russian Federation,True,-24.578,133.582,64.736,104.062
+56,397,6400000000,Alexei Kuzmichev,France,Energy,Russian Federation,True,46.656,2.543,64.736,104.062
+57,1804,1600000000,Pyotr Kondrashev,Austria,Manufacturing,Russian Federation,True,47.65,14.705,64.736,104.062
+58,659,4200000000,Pyotr Aven,Latvia,Finance & Investments,Russian Federation,True,57.017,25.017,64.736,104.062
+59,1434,2100000000,Artem Khachatryan,Cyprus,Fashion & Retail,Russian Federation,True,34.894,32.928,64.736,104.062
+60,1434,2100000000,Sergey Lomakin,Cyprus,Fashion & Retail,Russian Federation,True,34.894,32.928,64.736,104.062
+61,2405,1100000000,Gleb Fetisov,Cyprus,Telecom,Russian Federation,True,34.894,32.928,64.736,104.062
+62,184,9800000000,Nicolas Puech,Switzerland,Fashion & Retail,France,True,46.779,8.033,46.656,2.543
+63,636,4300000000,Patrick Drahi,Switzerland,Telecom,France,True,46.779,8.033,46.656,2.543
+64,223,8800000000,Carrie Perrodo & family,United Kingdom,Energy,France,True,52.289,-1.259,46.656,2.543
+65,1104,2700000000,Anne Beaufour,United Kingdom,Healthcare,France,True,52.289,-1.259,46.656,2.543
+66,1104,2700000000,Henri Beaufour,United Kingdom,Healthcare,France,True,52.289,-1.259,46.656,2.543
+67,41,31600000000,Alain Wertheimer,United States,Fashion & Retail,France,True,40.079,-98.816,46.656,2.543
+68,41,31600000000,Gerard Wertheimer,United States,Fashion & Retail,France,True,40.079,-98.816,46.656,2.543
+69,624,4400000000,Stéphane Bancel,United States,Healthcare,France,True,40.079,-98.816,46.656,2.543
+70,1647,1800000000,Olivier Pomel,United States,Technology,France,True,40.079,-98.816,46.656,2.543
+71,2133,1300000000,Laurent Junique,Singapore,Technology,France,True,1.339,103.83,46.656,2.543
+72,256,8100000000,Karel Komarek,Switzerland,Gambling & Casinos,Czechia,True,46.779,8.033,49.848,15.281
+73,390,6500000000,Radovan Vitek,Switzerland,Real Estate,Czechia,True,46.779,8.033,49.848,15.281
+74,325,7100000000,Frederik Paulsen,Switzerland,Healthcare,Sweden,True,46.779,8.033,66.219,19.0
+75,699,4000000000,Torbjorn Tornqvist,Switzerland,Energy,Sweden,True,46.779,8.033,66.219,19.0
+76,949,3100000000,Bertil Hult,Switzerland,Service,Sweden,True,46.779,8.033,66.219,19.0
+77,2405,1100000000,Peter Kamprad,Belgium,Finance & Investments,Sweden,True,50.675,4.459,66.219,19.0
+78,220,8900000000,Finn Rausing,United Kingdom,Food & Beverage,Sweden,True,52.289,-1.259,66.219,19.0
+79,220,8900000000,Jorn Rausing,United Kingdom,Food & Beverage,Sweden,True,52.289,-1.259,66.219,19.0
+80,220,8900000000,Kirsten Rausing,United Kingdom,Food & Beverage,Sweden,True,52.289,-1.259,66.219,19.0
+81,1905,1500000000,Stefan Olsson,United Kingdom,Diversified,Sweden,True,52.289,-1.259,66.219,19.0
+82,2259,1200000000,Thomas Sandell,United Kingdom,Finance & Investments,Sweden,True,52.289,-1.259,66.219,19.0
+83,2405,1100000000,Jonas Kamprad,United Kingdom,Finance & Investments,Sweden,True,52.289,-1.259,66.219,19.0
+84,2405,1100000000,Mathias Kamprad,United Kingdom,Finance & Investments,Sweden,True,52.289,-1.259,66.219,19.0
+85,2020,1400000000,Ali Ghodsi,United States,Technology,Sweden,True,40.079,-98.816,66.219,19.0
+86,2259,1200000000,Thomas von Koch,"Hong Kong, China (SAR)",Finance & Investments,Sweden,True,22.411,114.06,66.219,19.0
+87,787,3600000000,Nicolas D'Ieteren,Switzerland,Automotive,Belgium,True,46.779,8.033,50.675,4.459
+88,261,8000000000,Eric Wittouck,Monaco,Finance & Investments,Belgium,True,43.738,7.424,50.675,4.459
+89,787,3600000000,Lawrence Stroll,Switzerland,Fashion & Retail,Canada,True,46.779,8.033,59.207,-111.194
+90,1368,2200000000,Chulong Huang,China,Real Estate,Canada,True,35.175,99.388,59.207,-111.194
+91,1434,2100000000,Zhang Ning & family,China,Manufacturing,Canada,True,35.175,99.388,59.207,-111.194
+92,1575,1900000000,Guo Zhenyu & family,China,Fashion & Retail,Canada,True,35.175,99.388,59.207,-111.194
+93,2020,1400000000,Yuan Liping,China,Healthcare,Canada,True,35.175,99.388,59.207,-111.194
+94,511,5200000000,Mark Scheinberg,United Kingdom,Gambling & Casinos,Canada,True,52.289,-1.259,59.207,-111.194
+95,1104,2700000000,N. Murray Edwards,United Kingdom,Energy,Canada,True,52.289,-1.259,59.207,-111.194
+96,1104,2700000000,Bruce Flatt,United Kingdom,Finance & Investments,Canada,True,52.289,-1.259,59.207,-111.194
+97,215,9000000000,David Cheriton,United States,Technology,Canada,True,40.079,-98.816,59.207,-111.194
+98,949,3100000000,Ryan Cohen,United States,Finance & Investments,Canada,True,40.079,-98.816,59.207,-111.194
+99,1067,2800000000,Garrett Camp,United States,Technology,Canada,True,40.079,-98.816,59.207,-111.194
+100,1217,2500000000,Charles Bronfman,United States,Food & Beverage,Canada,True,40.079,-98.816,59.207,-111.194
+101,1368,2200000000,Max Lytvyn,United States,Technology,Canada,True,40.079,-98.816,59.207,-111.194
+102,1647,1800000000,Alan Zekelman,United States,Manufacturing,Canada,True,40.079,-98.816,59.207,-111.194
+103,2133,1300000000,Stewart Butterfield,United States,Technology,Canada,True,40.079,-98.816,59.207,-111.194
+104,2540,1000000000,Apoorva Mehta,United States,Technology,Canada,True,40.079,-98.816,59.207,-111.194
+105,167,10500000000,Changpeng Zhao,United Arab Emirates,Finance & Investments,Canada,True,23.93,53.903,59.207,-111.194
+106,290,7600000000,Joseph Tsai,"Hong Kong, China (SAR)",Technology,Canada,True,22.411,114.06,59.207,-111.194
+107,1104,2700000000,Pan Dong,"Hong Kong, China (SAR)",Fashion & Retail,Canada,True,22.411,114.06,59.207,-111.194
+108,2133,1300000000,Zhao Tongtong,"Hong Kong, China (SAR)",Service,Canada,True,22.411,114.06,59.207,-111.194
+109,787,3600000000,Leonid Boguslavsky,Italy,Finance & Investments,Canada,True,44.371,11.108,59.207,-111.194
+110,905,3200000000,Aristotelis Mistakidis,Switzerland,Metals & Mining,Greece,True,46.779,8.033,39.787,21.617
+111,1905,1500000000,Spiro Latsis & family,Switzerland,Diversified,Greece,True,46.779,8.033,39.787,21.617
+112,1067,2800000000,Philip Niarchos,France,Diversified,Greece,True,46.656,2.543,39.787,21.617
+113,949,3100000000,Daniel Mate,Switzerland,Metals & Mining,Spain,True,46.779,8.033,40.617,-3.388
+114,2259,1200000000,Jose Maria Aristrain,Switzerland,Metals & Mining,Spain,True,46.779,8.033,40.617,-3.388
+115,1905,1500000000,Carmen Thyssen,Andorra,Manufacturing,Spain,True,42.543,1.589,40.617,-3.388
+116,1272,2400000000,Tor Peterson,Switzerland,Metals & Mining,United States,True,46.779,8.033,40.079,-98.816
+117,455,5600000000,Li Ge,China,Healthcare,United States,True,35.175,99.388,40.079,-98.816
+118,659,4200000000,Lin Bin,China,Technology,United States,True,35.175,99.388,40.079,-98.816
+119,699,4000000000,Paul Lee,China,Manufacturing,United States,True,35.175,99.388,40.079,-98.816
+120,1217,2500000000,Roger Wang,China,Fashion & Retail,United States,True,35.175,99.388,40.079,-98.816
+121,1368,2200000000,Hao Hong,China,Healthcare,United States,True,35.175,99.388,40.079,-98.816
+122,1575,1900000000,Hua Shen,China,Technology,United States,True,35.175,99.388,40.079,-98.816
+123,1905,1500000000,Liu Xiucai & family,China,Manufacturing,United States,True,35.175,99.388,40.079,-98.816
+124,2259,1200000000,Ning Zhao,China,Healthcare,United States,True,35.175,99.388,40.079,-98.816
+125,40,32100000000,Len Blavatnik,United Kingdom,Diversified,United States,True,52.289,-1.259,40.079,-98.816
+126,905,3200000000,Ron Burkle,United Kingdom,Finance & Investments,United States,True,52.289,-1.259,40.079,-98.816
+127,1804,1600000000,Evgeny (Eugene) Shvidler,United Kingdom,Metals & Mining,United States,True,52.289,-1.259,40.079,-98.816
+128,2259,1200000000,Mike Speiser,United Kingdom,Technology,United States,True,52.289,-1.259,40.079,-98.816
+129,2405,1100000000,Henry Engelhardt,United Kingdom,Finance & Investments,United States,True,52.289,-1.259,40.079,-98.816
+130,1647,1800000000,Jim Thompson,"Hong Kong, China (SAR)",Logistics,United States,True,22.411,114.06,40.079,-98.816
+131,486,5400000000,Leo Koguan,Singapore,Technology,United States,True,1.339,103.83,40.079,-98.816
+132,1104,2700000000,Robert Friedland,Singapore,Metals & Mining,United States,True,1.339,103.83,40.079,-98.816
+133,190,9700000000,Michael Kim,Korea (Republic of),Finance & Investments,United States,True,36.338,128.16,40.079,-98.816
+134,1312,2300000000,Bom Kim,Korea (Republic of),Technology,United States,True,36.338,128.16,40.079,-98.816
+135,242,8400000000,Blair Parry-Okeden,Australia,Media & Entertainment,United States,True,-24.578,133.582,40.079,-98.816
+136,2405,1100000000,Sunjay Kapur,India,Automotive,United States,True,22.741,78.236,40.079,-98.816
+137,1312,2300000000,Augusto Perfetti,Switzerland,Food & Beverage,Italy,True,46.779,8.033,44.371,11.108
+138,1312,2300000000,Giorgio Perfetti,Switzerland,Food & Beverage,Italy,True,46.779,8.033,44.371,11.108
+139,30,38900000000,Giovanni Ferrero,Belgium,Food & Beverage,Italy,True,50.675,4.459,44.371,11.108
+140,818,3500000000,Rocco Basilico,United States,Fashion & Retail,Italy,True,40.079,-98.816,44.371,11.108
+141,818,3500000000,Claudio Del Vecchio,United States,Fashion & Retail,Italy,True,40.079,-98.816,44.371,11.108
+142,818,3500000000,Nicoletta Zampillo,Monaco,Fashion & Retail,Italy,True,43.738,7.424,44.371,11.108
+143,1516,2000000000,Maria Franca Fissolo,Monaco,Food & Beverage,Italy,True,43.738,7.424,44.371,11.108
+144,2020,1400000000,Manfredi Lefebvre d'Ovidio & family,Monaco,Service,Italy,True,43.738,7.424,44.371,11.108
+145,818,3500000000,Paola Del Vecchio,Luxembourg,Fashion & Retail,Italy,True,49.671,6.113,44.371,11.108
+146,1434,2100000000,Bahaa Hariri,Switzerland,Real Estate,Lebanon,True,46.779,8.033,34.161,36.021
+147,2259,1200000000,Fahed Hariri,United Kingdom,Construction & Engineering,Lebanon,True,52.289,-1.259,34.161,36.021
+148,2020,1400000000,Ayman Hariri,France,Construction & Engineering,Lebanon,True,46.656,2.543,34.161,36.021
+149,1905,1500000000,Robert Mouawad,Bahrain,Service,Lebanon,True,26.025,50.553,34.161,36.021
+150,1575,1900000000,Caroline Hagen Kjos,Switzerland,Diversified,Norway,True,46.779,8.033,61.37,9.303
+151,2020,1400000000,Torstein Hagen,Switzerland,Service,Norway,True,46.779,8.033,61.37,9.303
+152,437,5900000000,Andreas Halvorsen,United States,Finance & Investments,Norway,True,40.079,-98.816,61.37,9.303
+153,2020,1400000000,Reinold Geiger,Switzerland,Fashion & Retail,Austria,True,46.779,8.033,47.65,14.705
+154,2540,1000000000,Toto Wolff,Monaco,Sports,Austria,True,43.738,7.424,47.65,14.705
+155,445,5700000000,Helmut Sohmen,"Hong Kong, China (SAR)",Logistics,Austria,True,22.411,114.06,47.65,14.705
+156,2020,1400000000,Sebastian Kulczyk,Switzerland,Finance & Investments,Poland,True,46.779,8.033,52.442,19.72
+157,1575,1900000000,Dominika Kulczyk,United Kingdom,Finance & Investments,Poland,True,52.289,-1.259,52.442,19.72
+158,2133,1300000000,Martin Moller Nielsen,Switzerland,Logistics,Denmark,True,46.779,8.033,56.113,9.096
+159,38,33400000000,Robin Zeng,China,Automotive,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+160,120,14600000000,Xu Hang,China,Healthcare,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+161,312,7300000000,Wang Laichun,China,Technology,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+162,352,6800000000,Wang Laisheng,China,Technology,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+163,365,6700000000,Li Ping,China,Automotive,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+164,411,6200000000,Ruan Liping,China,Manufacturing,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+165,411,6200000000,Ruan Xueping,China,Manufacturing,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+166,455,5600000000,Wu Jianshu,China,Automotive,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+167,787,3600000000,Huang Yi,China,Automotive,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+168,878,3300000000,Neil Shen,China,Finance & Investments,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+169,949,3100000000,Cho Tak Wong,China,Manufacturing,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+170,1027,2900000000,Li Jianquan & family,China,Healthcare,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+171,1368,2200000000,Tang Xiao'ou,China,Technology,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+172,1575,1900000000,Lin Dingqiang & family,China,Real Estate,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+173,1804,1600000000,Li Sze Lim,China,Real Estate,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+174,1804,1600000000,Li Wa,China,Real Estate,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+175,2020,1400000000,Yu Peidi,China,Real Estate,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+176,2133,1300000000,Lv Jianming,China,Healthcare,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+177,2405,1100000000,Wu Kaiting,China,Telecom,"Hong Kong, China (SAR)",True,35.175,99.388,22.411,114.06
+178,103,16300000000,Li Xiting,China,Healthcare,Singapore,True,35.175,99.388,1.339,103.83
+179,766,3700000000,Jason Jiang,China,Media & Entertainment,Singapore,True,35.175,99.388,1.339,103.83
+180,1434,2100000000,Zhao Tao,China,Healthcare,Singapore,True,35.175,99.388,1.339,103.83
+181,580,4700000000,Jason Chang,Taiwan,Technology,Singapore,True,23.609,120.835,1.339,103.83
+182,437,5900000000,Tsai Eng-meng,China,Food & Beverage,Taiwan,True,35.175,99.388,23.609,120.835
+183,1434,2100000000,Wei Ing-Chou,China,Food & Beverage,Taiwan,True,35.175,99.388,23.609,120.835
+184,1434,2100000000,Wei Yin-Heng,China,Food & Beverage,Taiwan,True,35.175,99.388,23.609,120.835
+185,1575,1900000000,Wang Ren-sheng,China,Fashion & Retail,Taiwan,True,35.175,99.388,23.609,120.835
+186,1905,1500000000,Li Shui-po,China,Manufacturing,Taiwan,True,35.175,99.388,23.609,120.835
+187,1272,2400000000,Chen Tei-fu,United States,Fashion & Retail,Taiwan,True,40.079,-98.816,23.609,120.835
+188,1217,2500000000,Xie Weitong,Singapore,Metals & Mining,Taiwan,True,1.339,103.83,23.609,120.835
+189,2133,1300000000,Hoi Kin Hong,China,Real Estate,Macau,True,35.175,99.388,22.14,113.564
+190,93,17700000000,Lakshmi Mittal,United Kingdom,Metals & Mining,India,True,52.289,-1.259,22.741,78.236
+191,1027,2900000000,Karthik Sarma,United States,Finance & Investments,India,True,40.079,-98.816,22.741,78.236
+192,497,5300000000,M.A. Yusuff Ali,United Arab Emirates,Fashion & Retail,India,True,23.93,53.903,22.741,78.236
+193,511,5200000000,Micky Jagtiani,United Arab Emirates,Fashion & Retail,India,True,23.93,53.903,22.741,78.236
+194,905,3200000000,Ravi Pillai,United Arab Emirates,Construction & Engineering,India,True,23.93,53.903,22.741,78.236
+195,982,3000000000,Sunny Varkey,United Arab Emirates,Service,India,True,23.93,53.903,22.741,78.236
+196,1368,2200000000,Shamsheer Vayalil,United Arab Emirates,Healthcare,India,True,23.93,53.903,22.741,78.236
+197,2259,1200000000,Dhruv Sawhney,United Arab Emirates,Construction & Engineering,India,True,23.93,53.903,22.741,78.236
+198,1104,2700000000,Harindarpal Banga,"Hong Kong, China (SAR)",Finance & Investments,India,True,22.411,114.06,22.741,78.236
+199,1217,2500000000,Arvind Tiku,Singapore,Energy,India,True,1.339,103.83,22.741,78.236
+200,2020,1400000000,Binny Bansal,Singapore,Technology,India,True,1.339,103.83,22.741,78.236
+201,1516,2000000000,Aloke Lohia,Thailand,Manufacturing,India,True,15.688,100.845,22.741,78.236
+202,119,14700000000,Charlene de Carvalho-Heineken & family,United Kingdom,Food & Beverage,Netherlands,True,52.289,-1.259,52.17,5.01
+203,2259,1200000000,Sytse 'Sid' Sijbrandij,United States,Technology,Netherlands,True,40.079,-98.816,52.17,5.01
+204,127,14000000000,Idan Ofer,United Kingdom,Diversified,Israel,True,52.289,-1.259,30.992,34.834
+205,332,7000000000,Dmitri Bukhman,United Kingdom,Media & Entertainment,Israel,True,52.289,-1.259,30.992,34.834
+206,332,7000000000,Igor Bukhman,United Kingdom,Media & Entertainment,Israel,True,52.289,-1.259,30.992,34.834
+207,352,6800000000,Yuri Milner,United States,Finance & Investments,Israel,True,40.079,-98.816,30.992,34.834
+208,1368,2200000000,Adam Neumann,United States,Real Estate,Israel,True,40.079,-98.816,30.992,34.834
+209,1368,2200000000,Oren Zeev,United States,Finance & Investments,Israel,True,40.079,-98.816,30.992,34.834
+210,86,18900000000,Eyal Ofer,Monaco,Diversified,Israel,True,43.738,7.424,30.992,34.834
+211,699,4000000000,Shaul Shani,Italy,Telecom,Israel,True,44.371,11.108,30.992,34.834
+212,2540,1000000000,Ihor Kolomoyskyy,Ukraine,Diversified,Israel,True,49.364,32.132,30.992,34.834
+213,130,13700000000,John Fredriksen,United Kingdom,Logistics,Cyprus,True,52.289,-1.259,34.894,32.928
+214,766,3700000000,Yakir Gabay,United Kingdom,Real Estate,Cyprus,True,52.289,-1.259,34.894,32.928
+215,1368,2200000000,Igor Makarov,United States,Energy,Cyprus,True,40.079,-98.816,34.894,32.928
+216,184,9800000000,Vinod Adani,United Arab Emirates,Diversified,Cyprus,True,23.93,53.903,34.894,32.928
+217,2405,1100000000,Polys Haji-Ioannou,Monaco,Service,Cyprus,True,43.738,7.424,34.894,32.928
+218,2540,1000000000,Clelia Haji-Ioannou,Monaco,Service,Cyprus,True,43.738,7.424,34.894,32.928
+219,2540,1000000000,Stelios Haji-Ioannou,Monaco,Service,Cyprus,True,43.738,7.424,34.894,32.928
+220,305,7400000000,Sri Prakash Lohia,United Kingdom,Manufacturing,Indonesia,True,52.289,-1.259,-0.739,114.045
+221,982,3000000000,Martua Sitorus,Singapore,Manufacturing,Indonesia,True,1.339,103.83,-0.739,114.045
+222,982,3000000000,Sukanto Tanoto,Singapore,Diversified,Indonesia,True,1.339,103.83,-0.739,114.045
+223,2405,1100000000,Sjamsul Nursalim,Singapore,Automotive,Indonesia,True,1.339,103.83,-0.739,114.045
+224,405,6300000000,John Grayken,United Kingdom,Finance & Investments,Ireland,True,52.289,-1.259,53.214,-7.588
+225,1312,2300000000,John Armitage,United Kingdom,Finance & Investments,Ireland,True,52.289,-1.259,53.214,-7.588
+226,466,5500000000,John Collison,United States,Technology,Ireland,True,40.079,-98.816,53.214,-7.588
+227,466,5500000000,Patrick Collison,United States,Technology,Ireland,True,40.079,-98.816,53.214,-7.588
+228,332,7000000000,Shapoor Mistry,India,Diversified,Ireland,True,22.741,78.236,53.214,-7.588
+229,787,3600000000,Jaime Gilinski Bacal,United Kingdom,Finance & Investments,Colombia,True,52.289,-1.259,3.794,-73.606
+230,611,4500000000,David Velez & family,Brazil,Finance & Investments,Colombia,True,-11.694,-48.978,3.794,-73.606
+231,787,3600000000,Beatriz Davila de Santo Domingo,Bermuda,Food & Beverage,Colombia,True,32.302,-64.774,3.794,-73.606
+232,787,3600000000,Mohamed Mansour,United Kingdom,Diversified,Egypt,True,52.289,-1.259,26.16,28.742
+233,1516,2000000000,Mohamed Al Fayed,United Kingdom,Fashion & Retail,Egypt,True,52.289,-1.259,26.16,28.742
+234,905,3200000000,Michael Hintze,United Kingdom,Finance & Investments,Australia,True,52.289,-1.259,-24.578,133.582
+235,1516,2000000000,John Hancock,United Kingdom,Metals & Mining,Australia,True,52.289,-1.259,-24.578,133.582
+236,1164,2600000000,James Packer,United States,Finance & Investments,Australia,True,40.079,-98.816,-24.578,133.582
+237,1516,2000000000,Hope Welker,United States,Metals & Mining,Australia,True,40.079,-98.816,-24.578,133.582
+238,425,6000000000,Frank Lowy,Israel,Finance & Investments,Australia,True,30.992,34.834,-24.578,133.582
+239,818,3500000000,Vivek Chaand Sehgal,India,Automotive,Australia,True,22.741,78.236,-24.578,133.582
+240,1368,2200000000,Brett Blundy,Bahamas,Fashion & Retail,Australia,True,24.703,-78.046,-24.578,133.582
+241,1217,2500000000,Thor Bjorgolfsson,United Kingdom,Diversified,Iceland,True,52.289,-1.259,64.826,-18.417
+242,1312,2300000000,Georg von Opel,United Kingdom,Finance & Investments,Switzerland,True,52.289,-1.259,46.779,8.033
+243,523,5100000000,Hansjoerg Wyss,United States,Healthcare,Switzerland,True,40.079,-98.816,46.779,8.033
+244,317,7200000000,Guillaume Pousaz,United Arab Emirates,Finance & Investments,Switzerland,True,23.93,53.903,46.779,8.033
+245,1516,2000000000,Mario Germano Giuliani,Monaco,Healthcare,Switzerland,True,43.738,7.424,46.779,8.033
+246,1434,2100000000,Georgi Domuschiev,United Kingdom,Diversified,Bulgaria,True,52.289,-1.259,42.625,24.521
+247,1434,2100000000,Kiril Domuschiev,United Kingdom,Diversified,Bulgaria,True,52.289,-1.259,42.625,24.521
+248,1575,1900000000,Strive Masiyiwa,United Kingdom,Telecom,Zimbabwe,True,52.289,-1.259,-19.098,30.047
+249,2133,1300000000,Kristo Käärmann,United Kingdom,Finance & Investments,Estonia,True,52.289,-1.259,58.777,25.977
+250,1312,2300000000,David Nahmad,United States,Fashion & Retail,Monaco,True,40.079,-98.816,43.738,7.424
+251,1434,2100000000,Hamdi Ulukaya,United States,Food & Beverage,Türkiye,True,40.079,-98.816,39.144,34.188
+252,1804,1600000000,Daniel Dines,United States,Technology,Romania,True,40.079,-98.816,45.933,25.119
+253,2259,1200000000,Ion Stoica,United States,Technology,Romania,True,40.079,-98.816,45.933,25.119
+254,2259,1200000000,Matei Zaharia,United States,Technology,Romania,True,40.079,-98.816,45.933,25.119
+255,2020,1400000000,Rihanna,United States,Fashion & Retail,Barbados,True,40.079,-98.816,13.19,-59.559
+256,2540,1000000000,Tianqiao Chen,United States,Technology,China,True,40.079,-98.816,35.175,99.388
+257,523,5100000000,Tse Ping & family,"Hong Kong, China (SAR)",Healthcare,China,True,22.411,114.06,35.175,99.388
+258,949,3100000000,Yin Yee Lee,"Hong Kong, China (SAR)",Manufacturing,China,True,22.411,114.06,35.175,99.388
+259,982,3000000000,Lei Zhang,"Hong Kong, China (SAR)",Finance & Investments,China,True,22.411,114.06,35.175,99.388
+260,1067,2800000000,Wong Luen Hei,"Hong Kong, China (SAR)",Manufacturing,China,True,22.411,114.06,35.175,99.388
+261,1104,2700000000,Kei Hoi Pang,"Hong Kong, China (SAR)",Real Estate,China,True,22.411,114.06,35.175,99.388
+262,1312,2300000000,Lam Kong,"Hong Kong, China (SAR)",Healthcare,China,True,22.411,114.06,35.175,99.388
+263,2259,1200000000,Liu Ming Hui,"Hong Kong, China (SAR)",Energy,China,True,22.411,114.06,35.175,99.388
+264,1434,2100000000,Thaksin Shinawatra,United Arab Emirates,Finance & Investments,Thailand,True,23.93,53.903,15.688,100.845
+265,1804,1600000000,P.N.C. Menon,United Arab Emirates,Real Estate,Oman,True,23.93,53.903,19.85,56.25
+266,146,11800000000,Robert Kuok,"Hong Kong, China (SAR)",Diversified,Malaysia,True,22.411,114.06,4.416,102.099
+267,1647,1800000000,Kie Chie Wong,Australia,Metals & Mining,Malaysia,True,-24.578,133.582,4.416,102.099
+268,1067,2800000000,Chen Lip Keong,Cambodia,Gambling & Casinos,Malaysia,True,12.69,104.444,4.416,102.099
+269,466,5500000000,Jean Salata,"Hong Kong, China (SAR)",Finance & Investments,Chile,True,22.411,114.06,-23.176,-69.201
+270,878,3300000000,Takao Yasuda,Singapore,Fashion & Retail,Japan,True,1.339,103.83,35.962,137.855
+271,1164,2600000000,Richard Chandler,Singapore,Finance & Investments,New Zealand,True,1.339,103.83,-42.558,172.377
+272,2540,1000000000,Muhammed Aziz Khan,Singapore,Energy,Bangladesh,True,1.339,103.83,24.598,90.196
+273,721,3900000000,Kenneth Dart,Cayman Islands,Finance & Investments,Belize,True,19.33,-81.172,17.108,-88.744
+274,2133,1300000000,Myron Wentz,Cayman Islands,Fashion & Retail,St. Kitts and Nevis,True,19.33,-81.172,17.147,-62.58
+275,636,4300000000,Juan Carlos Escotet,Spain,Finance & Investments,Venezuela,True,40.617,-3.388,6.983,-64.588
+276,766,3700000000,Mikhail Lomtadze,Kazakhstan,Finance & Investments,Georgia,True,48.866,69.772,42.05,43.576
+277,1647,1800000000,Alejandro Bulgheroni,Uruguay,Energy,Argentina,True,-32.948,-56.249,-33.166,-64.31
